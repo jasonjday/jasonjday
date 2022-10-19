@@ -1,16 +1,20 @@
-### Hi there 👋
-
 <!--
 **jasonjday/jasonjday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+# Welcome to my GITHUB 🤓  
+
+### About Me
+I am an Infrastructure Engineer at Kroger Technology and in that role my coding is mainly powershell scripts. I like to dabble in other langugues and have experience in:  
+
+📌 Powershell   
+📌 .net  
+📌 CSS  
+📌 HTML  
+📌 VB Script  
+📌 AppleScript  
+
+---
+### Let's Connect
+🔗 [LinkedIn](https://www.linkedin.com/in/jasonjday)  
+🔗 [Twitter](https://www.twitter.com/jasonjday)  
