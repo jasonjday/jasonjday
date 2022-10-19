@@ -9,6 +9,7 @@ I am an Infrastructure Engineer at Kroger Technology and in that role my coding 
 
 📍 Powershell   
 📍 .net  
+📍 C#  
 📍 CSS  
 📍 HTML  
 📍 VB Script  
