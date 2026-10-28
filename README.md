@@ -5,7 +5,7 @@
 # Hi, I'm Jason. Welcome to my Github.
 
 ### ☕️ About Me
-I am an Infrastructure Engineer at Kroger Technology and recent graduate of the MSIS program at the University of Cincinnati Lindner College of Business. In these roles I've had exposure to and enjoy dabbling in many different languages. Here is the list of languages I have experience with (in no particular order):
+I am an Sr Infrastructure Engineering Manager at Kroger Technology and recent graduate of the MSIS program at the University of Cincinnati Lindner College of Business. In these roles I've had exposure to and enjoy dabbling in many different languages. Here is the list of languages I have experience with (in no particular order):
 
 📍 Powershell   
 📍 .net  
